@@ -1,19 +1,19 @@
 package com.gentleninja.movie_info_service.modle;
 
 public class Movie {
-    private Long id;
+    private String id;
     private String title;
 
-    public Movie(Long id, String title) {
+    public Movie(String id, String title) {
         this.id = id;
         this.title = title;
     }
 
-    public Long getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(String id) {
         this.id = id;
     }
 
