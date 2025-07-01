@@ -12,7 +12,7 @@
 	<artifactId>movie-info-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>movie-info-service</name>
-	<description>A movie information service in a microservice.</description>
+	<description>A movie information service in a microservice that provides information on movies.</description>
 	<url/>
 	<licenses>
 		<license/>
